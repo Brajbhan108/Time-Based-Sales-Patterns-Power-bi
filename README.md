@@ -3,6 +3,12 @@
 ### Data Sourse - https://www.kaggle.com/datasets/thedevastator/online-retail-sales-and-customer-data.
 ### Dashboard - https://github.com/Brajbhan108/Time-Based-Sales-Patterns-Power-bi/blob/main/Dashboard.jpg
 
+### Process
+- Data Mining and Data Modling using Power quary
+- Change Data Type as per data
+- Create Dax function for Time-Series anlysis
+- Create Dashbord and Chart
+
 ### Project Objective
 The objective of this project is to analyze sales data from an online retail dataset to identify key time-based patterns, customer behaviors, and product performance. The insights will help optimize sales strategies, identify high-performing periods and products, and improve operational efficiency by understanding returns and customer trends.
 
